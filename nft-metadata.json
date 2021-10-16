@@ -1,0 +1,16 @@
+{
+    "attributes": [
+      {
+        "trait_type": "breed",
+        "value": "mixed"
+      },
+      {
+        "trait_type": "derpiness",
+        "value": "high"
+      }
+    ],
+    "description": "what a pup",
+    "image": "https://gateway.pinata.cloud/ipfs/QmRmnKrY5DuwfAYfzfakW8gkaR3fjq9oxdoFVgv7dr1vkW",
+    "name": "pip"
+  }
+  
